@@ -1,0 +1,10 @@
+# Compiled binary
+jwks-server
+/jwks-server.exe
+
+# Coverage artifacts (regenerate with `go test ./... -coverprofile=coverage.out`)
+coverage.out
+coverage.html
+
+# OS cruft
+.DS_Store
